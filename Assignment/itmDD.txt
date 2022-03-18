@@ -1,0 +1,9 @@
+{"AAUXLYE":{ "DESC": "Mango Australia XL Yellow",
+              "UOM":"gram",
+              WTPR":100,
+             PRICE":1.55},
+"MAIDL0YE":{ "DESC": "Mango India L Yellow",
+              "UOM":"gram",
+              WTPR":100,
+            "PRICE":1.23}
+}
